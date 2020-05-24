@@ -1,12 +1,12 @@
 # Photorg - a (not so) simple photo organizer
 
 This program tries solving two common problems in photo and video organization - 
-duplicated files spreading at many folder. It use hash signatures and EXIF 
-information to identify duplicated files, copy to a fresh folder organized by
-date/time and, if wanted, remove them from the source.
+duplicated files spreading in many folders or devices. It uses hash signatures and 
+EXIF  information to identify duplicated files, copy to a fresh folder organized by
+date/time, events, etc, and, if wanted, remove them from the source.
 
-It is unprobable to delete not duplicated original files. You can even simulate
-operations will be done by photorg, before commit them. 
+It is unprobable photorg to delete not duplicated original files. You can even 
+simulate operations that will be done by photorg, before it commit them. 
 
 For helping use --help option and for examples of use try --usage option. 
 

@@ -1,6 +1,6 @@
 # Photorg - a (not so) simple photo organizer
 
-This program tries solving two common problem in photo and video organization - 
+This program tries solving two common problems in photo and video organization - 
 duplicated files spreading at many folder. It use hash signatures and EXIF 
 information to identify duplicated files, copy to a fresh folder organized by
 date/time and, if wanted, remove them from the source.

@@ -1,0 +1,2 @@
+SET LOC="%LOC%"
+python photorg.py --d -d %LOC%\2005\2005-celular -d "%LOC%\2006\2006-Fotos E98" -d %LOC%\2006\2006-toCell -d %LOC%\2008\2008-classificar -d %LOC%\2014\2014-Diversas-celular -d %LOC%\2014\2014-iphone4-Jane -d %LOC%\2015\2015-jul-03-iphone6-jane -d %LOC%\2015\LG-G3-ate-dez-2015 -d %LOC%\2015\whatsapp -d %LOC%\Classificar -d %LOC%\OUTRAS -o %LOC%\class-mes --c --n

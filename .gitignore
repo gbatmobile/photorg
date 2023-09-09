@@ -1,4 +1,7 @@
+*.bat
+*.spec
+dist/
+build/
 /old/
 /docs/to-classify.txt
-how-to-exe.bat
-photorg.exe
+/photorg.exe

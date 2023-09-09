@@ -6,9 +6,9 @@ EXIF  information to identify duplicated files, copy to a fresh folder organized
 date/time, events, etc, and, if wanted, remove them from the source.
 
 It is unprobable photorg to delete not duplicated original files. You can even 
-simulate operations that will be done by photorg, before it commit them. 
+simulate operations that will be done, before it commit them. 
 
-For helping use --help option and for examples of use try --usage option. 
+For helping, use --help option. Some examples of use can be get with --usage option. 
 
 Galileu Batista
 
